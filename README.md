@@ -14,8 +14,8 @@
 
 ## 🛠 실습 저장소
 
-- 📁 **참고자료** → [github.com/gbshs/github-lecture](https://github.com/gbshs/github-lecture)
-- 🍴 **Fork 실습** → [github.com/gbshs/github-lecture-practice](https://github.com/gbshs/github-lecture-practice)
+- 📁 **참고자료** → [github.com/gbshs/github-lecture](https://github.com/gbshs/glp2)
+- 🍴 **Fork 실습** → [github.com/gbshs/github-lecture-practice](https://github.com/gbshs/glp2)
 
 ## 🔗 유용한 링크
 

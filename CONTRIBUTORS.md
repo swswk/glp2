@@ -44,15 +44,14 @@
 ---
 
 ### 4단계 — Pull Request 보내기
-1. 상단에 노란 배너가 뜨면 **`Compare & pull request`** 클릭
-2. 배너가 안 보이면 **`Contribute`** 버튼 → **`Open pull request`** 클릭
-3. 제목 확인 후 **`Create pull request`** 클릭 
+1. 상단에 **`Contribute`** 버튼 → **`Open pull request`** 클릭
+2. 제목 확인 후 **`Create pull request`** 클릭 
 
 ---
 
 ### 5단계 — contributors 폴더에서 내 이름 확인하기! 
 선생님이 PR을 확인하고 merge해주면
-ontributors 폴더에 내 이름이 추가됩니다!
+contributors 폴더에 내 이름이 추가됩니다!
 
 
 
